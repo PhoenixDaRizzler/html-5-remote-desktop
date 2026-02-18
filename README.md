@@ -2,7 +2,7 @@
 
 step-by-step
 
-1\. download files
+1\. download files https://drive.google.com/drive/folders/1rI-qGcW5M5gdDUBMeXEwgp-aje6YArcB?usp=drive_link
 
 2\. Move and run client.html to the client device, such as a school cromebook.
 
